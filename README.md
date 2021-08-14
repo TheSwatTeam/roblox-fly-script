@@ -1,1 +1,3 @@
-# roblox-fly-script
+At the current time of creating this script, most roblox executors are patched, meaning you cannot use this script to exploit in any games at this current time. When Synpase X and KRNL are updated, you should be able to use this script whenever you feel like it.
+Having problems with the script for some reason? This means your executor cannot run this script for some reason, but I doubt that will happen unless your executor is shit!
+Having problems with the script for some reason? If you are using an executor such as Synpase X or KRNL yet still cant run this script, this means that this script is outdated, sorry!
